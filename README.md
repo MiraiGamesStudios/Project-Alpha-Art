@@ -1,3 +1,3 @@
 # Project-Alpha-Art
 
-En este repositorio encontraras el arte de Project Alpha
+En este repositorio encontraras el arte y música de Project Alpha
