@@ -9,6 +9,7 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: GrisPuerta
     second: {fileID: 2100000, guid: 499bff992fc4aca4aa6a850e9a51e9d9, type: 2}
+  - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Marron1
