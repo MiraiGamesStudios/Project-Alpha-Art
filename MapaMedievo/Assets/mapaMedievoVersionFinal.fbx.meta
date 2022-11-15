@@ -8,17 +8,17 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Floor
-    second: {fileID: 2100000, guid: 4d0a1daa7a914d842a96740245f21525, type: 2}
+    second: {fileID: 2100000, guid: e724161825c015344828b2fb5b67d3ae, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Material
-    second: {fileID: 2100000, guid: 347c3fe07ed5654468217cc4e3ac1b77, type: 2}
+    second: {fileID: 2100000, guid: e724161825c015344828b2fb5b67d3ae, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: black
-    second: {fileID: 2100000, guid: 5707ec5c408ef6c42b0b054f7f263564, type: 2}
+    second: {fileID: 2100000, guid: e724161825c015344828b2fb5b67d3ae, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule

@@ -11,13 +11,13 @@ D:\UNITY HUB\2021.3.11f1\Editor\Unity.exe
 -name
 AssetImportWorker1
 -projectPath
-C:/Users/G531/Desktop/MapaMedievo
+C:/Users/G531/Desktop/Project-Alpha-Art/MapaMedievo
 -logFile
 Logs/AssetImportWorker1.log
 -srvPort
-52525
-Successfully changed project path to: C:/Users/G531/Desktop/MapaMedievo
-C:/Users/G531/Desktop/MapaMedievo
+49208
+Successfully changed project path to: C:/Users/G531/Desktop/Project-Alpha-Art/MapaMedievo
+C:/Users/G531/Desktop/Project-Alpha-Art/MapaMedievo
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
     "memorysetup-bucket-allocator-granularity=16"
     "memorysetup-bucket-allocator-bucket-count=8"
@@ -47,11 +47,11 @@ C:/Users/G531/Desktop/MapaMedievo
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Refreshing native plugins compatible for Editor in 90.60 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 119.92 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.3.11f1 (0a5ca18544bf)
 [Subsystems] Discovering subsystems at path D:/UNITY HUB/2021.3.11f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path C:/Users/G531/Desktop/MapaMedievo/Assets
+[Subsystems] Discovering subsystems at path C:/Users/G531/Desktop/Project-Alpha-Art/MapaMedievo/Assets
 GfxDevice: creating device client; threaded=0; jobified=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
@@ -63,92 +63,92 @@ Initialize mono
 Mono path[0] = 'D:/UNITY HUB/2021.3.11f1/Editor/Data/Managed'
 Mono path[1] = 'D:/UNITY HUB/2021.3.11f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'D:/UNITY HUB/2021.3.11f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56380
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56664
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: D:/UNITY HUB/2021.3.11f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: D:/UNITY HUB/2021.3.11f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.012439 seconds.
+Registered in 0.017392 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 90.81 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 140.23 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.804 seconds
+- Completed reload, in  1.313 seconds
 Domain Reload Profiling:
-	ReloadAssembly (804ms)
-		BeginReloadAssembly (113ms)
+	ReloadAssembly (1314ms)
+		BeginReloadAssembly (182ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (559ms)
-			LoadAssemblies (109ms)
+		EndReloadAssembly (926ms)
+			LoadAssemblies (173ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (120ms)
+			SetupTypeCache (259ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (32ms)
-			SetupLoadedEditorAssemblies (347ms)
+			RebuildScriptCaches (82ms)
+			SetupLoadedEditorAssemblies (464ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (12ms)
+				InitializePlatformSupportModulesInManaged (15ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (91ms)
-				BeforeProcessingInitializeOnLoad (1ms)
-				ProcessInitializeOnLoadAttributes (189ms)
-				ProcessInitializeOnLoadMethodAttributes (53ms)
+				RefreshPlugins (140ms)
+				BeforeProcessingInitializeOnLoad (3ms)
+				ProcessInitializeOnLoadAttributes (229ms)
+				ProcessInitializeOnLoadMethodAttributes (76ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.005470 seconds.
+Registered in 0.006870 seconds.
 Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\G531\Desktop\MapaMedievo\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\G531\Desktop\MapaMedievo\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\G531\Desktop\Project-Alpha-Art\MapaMedievo\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\G531\Desktop\Project-Alpha-Art\MapaMedievo\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.61 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 0.83 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.212 seconds
+- Completed reload, in  1.682 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1213ms)
-		BeginReloadAssembly (151ms)
+	ReloadAssembly (1684ms)
+		BeginReloadAssembly (264ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (7ms)
+			DisableScriptedObjects (11ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (22ms)
-		EndReloadAssembly (936ms)
-			LoadAssemblies (122ms)
+			CreateAndSetChildDomain (45ms)
+		EndReloadAssembly (1254ms)
+			LoadAssemblies (186ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (285ms)
+			SetupTypeCache (354ms)
 			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (53ms)
-			SetupLoadedEditorAssemblies (454ms)
+			RebuildScriptCaches (73ms)
+			SetupLoadedEditorAssemblies (635ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (9ms)
+				InitializePlatformSupportModulesInManaged (13ms)
 				SetLoadedEditorAssemblies (1ms)
 				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (102ms)
-				ProcessInitializeOnLoadAttributes (293ms)
-				ProcessInitializeOnLoadMethodAttributes (31ms)
-				AfterProcessingInitializeOnLoad (16ms)
+				BeforeProcessingInitializeOnLoad (125ms)
+				ProcessInitializeOnLoadAttributes (433ms)
+				ProcessInitializeOnLoadMethodAttributes (44ms)
+				AfterProcessingInitializeOnLoad (18ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (8ms)
+			AwakeInstancesAfterBackupRestoration (10ms)
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
-Refreshing native plugins compatible for Editor in 0.71 ms, found 3 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.72 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3382 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 27 unused Assets / (114.0 KB). Loaded Objects now: 3840.
-Memory consumption went from 120.1 MB to 120.0 MB.
-Total: 4.592900 ms (FindLiveObjects: 0.406100 ms CreateObjectMapping: 0.263500 ms MarkObjects: 3.810300 ms  DeleteObjects: 0.111800 ms)
+Unloading 3383 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 28 unused Assets / (113.5 KB). Loaded Objects now: 3840.
+Memory consumption went from 120.2 MB to 120.0 MB.
+Total: 3.412400 ms (FindLiveObjects: 0.419800 ms CreateObjectMapping: 0.287500 ms MarkObjects: 2.589200 ms  DeleteObjects: 0.115200 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -163,28 +163,206 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 224769.508267 seconds.
-  path: Assets/EmaceArt/Slavic World Free
-  artifactKey: Guid(aeef449e3eea9b94898695c042182622) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/EmaceArt/Slavic World Free using Guid(aeef449e3eea9b94898695c042182622) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '701d23827b2f36ef226914d5b15572e1') in 0.009474 seconds 
+  Time since last request: 306608.686193 seconds.
+  path: Assets/MaterialsMedieval/Material 2.mat
+  artifactKey: Guid(861453a5f535a064cba90a5cb726c8f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MaterialsMedieval/Material 2.mat using Guid(861453a5f535a064cba90a5cb726c8f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e755414a7f03ec632e224c54c185612') in 0.143697 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.116976 seconds.
-  path: Assets/EmaceArt/Slavic World Free/Prefabs/EA_Room_Int_Kitchen_Comp_7x10_01a_PRE.prefab
-  artifactKey: Guid(dde4e20405bbdff44a7a8e57f9f6eab8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/EmaceArt/Slavic World Free/Prefabs/EA_Room_Int_Kitchen_Comp_7x10_01a_PRE.prefab using Guid(dde4e20405bbdff44a7a8e57f9f6eab8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5e87baefc7bba3e2d87764573f4180e') in 0.626461 seconds 
+  Time since last request: 0.000033 seconds.
+  path: Assets/MaterialsMedieval/Material.003 1.mat
+  artifactKey: Guid(51b31deaa9cccf542b19e92e773845a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MaterialsMedieval/Material.003 1.mat using Guid(51b31deaa9cccf542b19e92e773845a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99f31b9efd3328c77e38bdec576ac61d') in 0.036757 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000034 seconds.
+  Time since last request: 199.222506 seconds.
+  path: Assets/EmaceArt/Slavic World Free/Prefabs/Village/Elements/EA03_Prop_House_Bolt_01a_PRE.prefab
+  artifactKey: Guid(4b0d2e42947866c42b193739d42e3fc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EmaceArt/Slavic World Free/Prefabs/Village/Elements/EA03_Prop_House_Bolt_01a_PRE.prefab using Guid(4b0d2e42947866c42b193739d42e3fc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67ee85a8edcde756fa8685ee46a792b9') in 0.054496 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/EmaceArt/Slavic World Free/Prefabs/Village/Elements/EA03_Prop_House_Shutter_01d_PRE.prefab
+  artifactKey: Guid(06a8d51f3d3b2824a924b5fd11f46453) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EmaceArt/Slavic World Free/Prefabs/Village/Elements/EA03_Prop_House_Shutter_01d_PRE.prefab using Guid(06a8d51f3d3b2824a924b5fd11f46453) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac16d916fb6bf85830731be3ac7e0000') in 0.030562 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/EmaceArt/Slavic World Free/Prefabs/Prop/Furniture/EA03_Prop_House_Shelf_01a_PRE.prefab
+  artifactKey: Guid(f219e44f8c45a5148ace498ba060743a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EmaceArt/Slavic World Free/Prefabs/Prop/Furniture/EA03_Prop_House_Shelf_01a_PRE.prefab using Guid(f219e44f8c45a5148ace498ba060743a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd66705b3b363227d95edb72245002001') in 0.027604 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/EmaceArt/Slavic World Free/Prefabs/Prop/Furniture/EA03_Prop_House_Shelf_01c_PRE.prefab
+  artifactKey: Guid(65130df02e505f0498444f4a0d81932a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EmaceArt/Slavic World Free/Prefabs/Prop/Furniture/EA03_Prop_House_Shelf_01c_PRE.prefab using Guid(65130df02e505f0498444f4a0d81932a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5fb4598f4c28f8f7c10c7156b0510d23') in 0.029028 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000078 seconds.
+  path: Assets/EmaceArt/Slavic World Free/Prefabs/Prop/Furniture/EA03_Prop_Tabble_01a_PRE.prefab
+  artifactKey: Guid(b2ebda948c9d90f40b799c15675df85f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EmaceArt/Slavic World Free/Prefabs/Prop/Furniture/EA03_Prop_Tabble_01a_PRE.prefab using Guid(b2ebda948c9d90f40b799c15675df85f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0fd8be9fed47648b8fad24d426a5ee05') in 0.028673 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/EmaceArt/Slavic World Free/Prefabs/Items/House/EA03_Prop_House_Shelf_01g_PRE.prefab
+  artifactKey: Guid(c5f50c13bb9173843b834b4ce5b30cb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EmaceArt/Slavic World Free/Prefabs/Items/House/EA03_Prop_House_Shelf_01g_PRE.prefab using Guid(c5f50c13bb9173843b834b4ce5b30cb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '249e90cb245bf19de7db9f16f0786eb3') in 0.051209 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/EmaceArt/Slavic World Free/Prefabs/Environment/EA03_Prop_House_Door_01b_PRE.prefab
+  artifactKey: Guid(baa6dbec3eebc054d96e5e02272fd7ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EmaceArt/Slavic World Free/Prefabs/Environment/EA03_Prop_House_Door_01b_PRE.prefab using Guid(baa6dbec3eebc054d96e5e02272fd7ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67805fa8bc89e8b3ab54e48cca8d0aa3') in 0.032241 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/EmaceArt/Slavic World Free/Prefabs/Prop/Village/EA03_Prop_Stand_Sheet_01a_PRE.prefab
+  artifactKey: Guid(030aafe6a5bf7ef4ab7c96b43761fd01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EmaceArt/Slavic World Free/Prefabs/Prop/Village/EA03_Prop_Stand_Sheet_01a_PRE.prefab using Guid(030aafe6a5bf7ef4ab7c96b43761fd01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9d382200bb2f2ab2c815a89a1e2594d') in 0.030577 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000091 seconds.
+  path: Assets/EmaceArt/Slavic World Free/Prefabs/Prop/Furniture/EA03_Prop_Shelf_01c_PRE.prefab
+  artifactKey: Guid(c941c50bd2fae654ca064ade3996ea72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EmaceArt/Slavic World Free/Prefabs/Prop/Furniture/EA03_Prop_Shelf_01c_PRE.prefab using Guid(c941c50bd2fae654ca064ade3996ea72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '887b06940227ea28f04afdcf0fae3e6f') in 0.027516 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000128 seconds.
+  path: Assets/EmaceArt/Slavic World Free/Prefabs/Items/House/EA03_Prop_House_Hanger_01b_PRE.prefab
+  artifactKey: Guid(d33d1c1d6757af64f9740acdcc056948) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EmaceArt/Slavic World Free/Prefabs/Items/House/EA03_Prop_House_Hanger_01b_PRE.prefab using Guid(d33d1c1d6757af64f9740acdcc056948) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4e7c0cc020a3b80bada55d3fd15e18b') in 0.031370 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/EmaceArt/Slavic World Free/Prefabs/Village/Elements/EA03_Prop_House_Shutter_01c_PRE.prefab
+  artifactKey: Guid(957332e63e4a23d4a87eb37fba342585) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EmaceArt/Slavic World Free/Prefabs/Village/Elements/EA03_Prop_House_Shutter_01c_PRE.prefab using Guid(957332e63e4a23d4a87eb37fba342585) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c2f83e9cc638365154d0517925f1d4c') in 0.028582 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000047 seconds.
+  path: Assets/EmaceArt/Slavic World Free/Prefabs/Prop/Sign/EA03_Prop_Sign_Chapel_01_PRE.prefab
+  artifactKey: Guid(cb0202a48afd8ff428cd62c8437902f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EmaceArt/Slavic World Free/Prefabs/Prop/Sign/EA03_Prop_Sign_Chapel_01_PRE.prefab using Guid(cb0202a48afd8ff428cd62c8437902f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '553aac4cbcec5d4edd8027ec0c01bd73') in 0.048009 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 154.788934 seconds.
+  path: Assets/MapaMedievo.prefab
+  artifactKey: Guid(1e7c3756cac8a144da3951b99f5e1329) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MapaMedievo.prefab using Guid(1e7c3756cac8a144da3951b99f5e1329) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2141dab760ce4a3db3f87b07ad8c6413') in 1.139364 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 89.900239 seconds.
+  path: Assets/EmaceArt/Slavic World Free/Plugin/Wind_Noise.tif
+  artifactKey: Guid(8df763d702bf3e642a8f562e8ba6b185) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EmaceArt/Slavic World Free/Plugin/Wind_Noise.tif using Guid(8df763d702bf3e642a8f562e8ba6b185) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77a66076f17ac545e26217a6e074522d') in 0.047537 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.362903 seconds.
+  path: Assets/EmaceArt/Slavic World Free/Prefabs/EA_Room_Comp_3X3_PRE.prefab
+  artifactKey: Guid(7bf24ab952eecba429c33f37cbf93bb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EmaceArt/Slavic World Free/Prefabs/EA_Room_Comp_3X3_PRE.prefab using Guid(7bf24ab952eecba429c33f37cbf93bb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4236772717776afad28b739ec0d08bc9') in 0.122304 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/EmaceArt/Slavic World Free/Prefabs/EA_Room_Int_LivingRoom_Comp_7x7_01b_PRE.prefab
+  artifactKey: Guid(3a7485f2f87e412438db59450e905eb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EmaceArt/Slavic World Free/Prefabs/EA_Room_Int_LivingRoom_Comp_7x7_01b_PRE.prefab using Guid(3a7485f2f87e412438db59450e905eb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b242bdc9c5d141259f8c37156517e787') in 0.087576 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
   path: Assets/EmaceArt/Slavic World Free/Prefabs/EA_Room_Int_LivingRoom_Comp_7x7_01c_PRE.prefab
   artifactKey: Guid(1d6ec208d717eb64b9b40a229d2e2fd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/EmaceArt/Slavic World Free/Prefabs/EA_Room_Int_LivingRoom_Comp_7x7_01c_PRE.prefab using Guid(1d6ec208d717eb64b9b40a229d2e2fd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ecd1b92ec70e1dde3669bb276ffe9e6') in 0.107422 seconds 
+Start importing Assets/EmaceArt/Slavic World Free/Prefabs/EA_Room_Int_LivingRoom_Comp_7x7_01c_PRE.prefab using Guid(1d6ec208d717eb64b9b40a229d2e2fd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ecd1b92ec70e1dde3669bb276ffe9e6') in 0.088653 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 54.303279 seconds.
-  path: Assets/EmaceArt/Slavic World Free/Prefabs/Village/Building/Other/EA03_Village_OutBuilding_Cubby_01d_PRE.prefab
-  artifactKey: Guid(a5e616d7f60efe24f86a5244065c89d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/EmaceArt/Slavic World Free/Prefabs/Village/Building/Other/EA03_Village_OutBuilding_Cubby_01d_PRE.prefab using Guid(a5e616d7f60efe24f86a5244065c89d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c243a11f38e5ad9955eb94fcf5fca528') in 0.042841 seconds 
+  Time since last request: 342.752982 seconds.
+  path: Assets/Barril2.fbx
+  artifactKey: Guid(dd64ea6b939ed444897d0116ef45064b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Barril2.fbx using Guid(dd64ea6b939ed444897d0116ef45064b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '751227cbe19f91bb198103f04f92b4b6') in 0.104942 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/Cofre.fbx
+  artifactKey: Guid(9428c3bcdc208c34c9292428d1d8f1e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cofre.fbx using Guid(9428c3bcdc208c34c9292428d1d8f1e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cceca619e6c06a575ebb3fa45b8ba700') in 0.049477 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/MapaMedievo.prefab
+  artifactKey: Guid(1e7c3756cac8a144da3951b99f5e1329) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MapaMedievo.prefab using Guid(1e7c3756cac8a144da3951b99f5e1329) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca18053cca02af8ca948d55463517404') in 1.216567 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Puerta.fbx
+  artifactKey: Guid(433596f99cf7e5643a06d4a1ffd3ac96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Puerta.fbx using Guid(433596f99cf7e5643a06d4a1ffd3ac96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60f2a2e5798e357a0fce33edc0282139') in 0.020330 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/mapaMedievoVersionFinal.fbx
+  artifactKey: Guid(d8e5debdac5b5084ab4cbaee5c4ae937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mapaMedievoVersionFinal.fbx using Guid(d8e5debdac5b5084ab4cbaee5c4ae937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8fb5170a538d1a78c7fc5c722029c01') in 0.269649 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.009097 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\G531\Desktop\Project-Alpha-Art\MapaMedievo\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\G531\Desktop\Project-Alpha-Art\MapaMedievo\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 4.17 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.876 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1877ms)
+		BeginReloadAssembly (391ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (9ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (163ms)
+		EndReloadAssembly (1305ms)
+			LoadAssemblies (211ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (437ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (62ms)
+			SetupLoadedEditorAssemblies (578ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (26ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (5ms)
+				BeforeProcessingInitializeOnLoad (118ms)
+				ProcessInitializeOnLoadAttributes (374ms)
+				ProcessInitializeOnLoadMethodAttributes (34ms)
+				AfterProcessingInitializeOnLoad (19ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (10ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 3.82 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3376 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 22 unused Assets / (80.7 KB). Loaded Objects now: 3890.
+Memory consumption went from 135.2 MB to 135.2 MB.
+Total: 4.532000 ms (FindLiveObjects: 0.390200 ms CreateObjectMapping: 0.181000 ms MarkObjects: 3.867600 ms  DeleteObjects: 0.091600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
 AssetImportWorker is now disconnected from the server
 Process exiting
